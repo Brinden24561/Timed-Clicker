@@ -117,6 +117,5 @@
             Content="Stop Click"
             Margin="0,85,25,85"
             Padding="10,15,10,20" />
-
   </Grid>
 </Window>
