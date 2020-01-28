@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon></ApplicationIcon>
+    <Win32Resource></Win32Resource>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NodaTime" Version="2.4.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WindowsFormsIntegration.Design">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\WindowsFormsIntegration.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsFormsIntegration.Package">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\WindowsFormsIntegration.Package.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

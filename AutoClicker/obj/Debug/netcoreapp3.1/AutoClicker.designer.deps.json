@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NodaTime/2.4.7": {
+        "runtime": {
+          "lib/netstandard2.0/NodaTime.dll": {
+            "assemblyVersion": "2.4.7.0",
+            "fileVersion": "2.4.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NodaTime/2.4.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qXOjY8467lqeOLDOZa7TmHL4jvlMDz9xcQuMXgXW7fvVXJNMx1Z6DBVozK+FMzH4eHscccfpgJmv8ua9s8mtbA==",
+      "path": "nodatime/2.4.7",
+      "hashPath": "nodatime.2.4.7.nupkg.sha512"
+    }
+  }
+}
