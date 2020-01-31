@@ -1,4 +1,4 @@
-﻿using AutoClicker.Model;
+using AutoClicker.Model;
 using AutoClicker.Model.Base;
 using System;
 using System.Collections.Generic;
