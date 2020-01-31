@@ -1,0 +1,9 @@
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\Timed-Clicker\Views\MainWindow.baml
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\Timed-Clicker\Views\MainWindow.g.cs
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\QuickClick_MarkupCompile.cache
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\QuickClick.g.resources
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\QuickClick.AssemblyInfoInputs.cache
+C:\Users\Brinden\source\repos\SortingApplication\obj\Debug\netcoreapp3.1\QuickClick.AssemblyInfo.cs
