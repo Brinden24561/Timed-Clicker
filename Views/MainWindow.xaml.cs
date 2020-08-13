@@ -57,17 +57,13 @@ namespace SortingApplication
            
         }
        
-        //public override string ToString()
-        //{
-        //    return this.s1.Elapsed.ToString("{0:00}:{1:00}:{2:00}");
-        //}
         private void dt_Tick(object sender, EventArgs e)
         {
             TimeStamp.Text = s1.Elapsed.ToString();  
         }
         /// <summary>
-        /// Simulates left clicking, upon click timer starts.
-        /// Method then waits for Stop_Click method to be invoked by click or by key+modifier
+        /// Simulates left clicking
+        /// then waits for Stop_Click method to be invoked by click or by key+modifier
         /// </summary>
         /// <param name="sender">The button</param>
         /// <param name="e"></param>
@@ -85,7 +81,7 @@ namespace SortingApplication
             var rand = new Random();
             string update = "Single click ended";
 
-            //invoked if stop button is clicked, resets everything
+            //invoked if stop button is clicked, and the single click is re-clicked
             if (!s1.IsRunning && !t1.IsEnabled)
             {
                 clickCount = 0;
@@ -106,7 +102,7 @@ namespace SortingApplication
 
         private void Stop_Click(object sender, RoutedEventArgs e)
         {
-            //deactivate left click
+            //deactivate left click, and insert data to DB
             button2wasClicked = true;
             _view.InsertEntry(s1, clickCount);
             if (button1wasClicked)

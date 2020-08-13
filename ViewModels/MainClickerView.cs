@@ -38,7 +38,8 @@ namespace AutoClicker.ViewModel
         }
         public void InsertEntry(Stopwatch ClickTime, int ClickNumber)
         {
-            this.db.Execute(@"INSERT INTO ClickTimeSess.ClickWithTime (ClickTime, ClickNumber) VALUES (@ClickTime, @ClickNumber)", new { ClickTime = ClickTime.Elapsed, ClickNumber = ClickNumber });
+
+            this.db.Execute(@"INSERT INTO ClickTimeSess.ClickWithTime (ClickTime, ClickNumber, Date) VALUES (@ClickTime, @ClickNumber, @Date)", new { ClickTime = ClickTime.Elapsed, ClickNumber = ClickNumber, Date=DateTime.Now });
         }
     }
 }

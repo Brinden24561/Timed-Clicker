@@ -1,0 +1,86 @@
+8/10/2020 10:41:24 PM	This log contains information about the import schema operation into project 'ClickTimeDB' on computer 'LAPTOP-M9GS9GCD' by user 'Brinden'.
+8/10/2020 10:41:24 PM	Import of database schema has started.
+8/10/2020 10:41:33 PM	Gathering database credentials
+8/10/2020 10:41:33 PM	Gathering database options
+8/10/2020 10:41:33 PM	Gathering generic database scoped configuration option
+8/10/2020 10:41:33 PM	Gathering users
+8/10/2020 10:41:33 PM	Gathering roles
+8/10/2020 10:41:33 PM	Gathering application roles
+8/10/2020 10:41:33 PM	Gathering role memberships
+8/10/2020 10:41:33 PM	Gathering filegroups
+8/10/2020 10:41:33 PM	Gathering full-text catalogs
+8/10/2020 10:41:33 PM	Gathering assemblies
+8/10/2020 10:41:33 PM	Gathering certificates
+8/10/2020 10:41:33 PM	Gathering asymmetric keys
+8/10/2020 10:41:33 PM	Gathering symmetric keys
+8/10/2020 10:41:33 PM	Gathering encrypted symmetric keys
+8/10/2020 10:41:33 PM	Gathering schemas
+8/10/2020 10:41:33 PM	Gathering XML schema collections
+8/10/2020 10:41:33 PM	Gathering user-defined data types
+8/10/2020 10:41:33 PM	Gathering user-defined types
+8/10/2020 10:41:33 PM	Gathering table types
+8/10/2020 10:41:33 PM	Gathering unique keys for table types
+8/10/2020 10:41:33 PM	Gathering primary keys for table types
+8/10/2020 10:41:33 PM	Gathering indexes for table types
+8/10/2020 10:41:34 PM	Gathering check constraints for table types
+8/10/2020 10:41:34 PM	Gathering default constraints for table types
+8/10/2020 10:41:34 PM	Gathering partition functions
+8/10/2020 10:41:34 PM	Gathering partition schemes
+8/10/2020 10:41:34 PM	Gathering functions
+8/10/2020 10:41:34 PM	Gathering encrypted functions
+8/10/2020 10:41:34 PM	Gathering aggregates
+8/10/2020 10:41:34 PM	Gathering procedures
+8/10/2020 10:41:34 PM	Gathering encrypted procedures
+8/10/2020 10:41:34 PM	Gathering tables
+8/10/2020 10:41:34 PM	Gathering primary keys
+8/10/2020 10:41:34 PM	Gathering unique constraints
+8/10/2020 10:41:34 PM	Gathering foreign keys
+8/10/2020 10:41:34 PM	Gathering default constraints
+8/10/2020 10:41:34 PM	Gathering check constraints
+8/10/2020 10:41:34 PM	Gathering views
+8/10/2020 10:41:34 PM	Gathering encrypted views
+8/10/2020 10:41:34 PM	Gathering indexes
+8/10/2020 10:41:34 PM	Gathering statistics
+8/10/2020 10:41:34 PM	Gathering full-text index stoplists
+8/10/2020 10:41:34 PM	Gathering search property lists
+8/10/2020 10:41:34 PM	Gathering search properties
+8/10/2020 10:41:34 PM	Gathering full-text indexes
+8/10/2020 10:41:34 PM	Gathering column store indexes
+8/10/2020 10:41:34 PM	Gathering spatial indexes
+8/10/2020 10:41:34 PM	Gathering XML indexes
+8/10/2020 10:41:34 PM	Gathering Selective XML indexes
+8/10/2020 10:41:34 PM	Gathering encrypted triggers
+8/10/2020 10:41:34 PM	Gathering triggers
+8/10/2020 10:41:34 PM	Gathering encrypted and clr ddl triggers
+8/10/2020 10:41:34 PM	Gathering ddl triggers
+8/10/2020 10:41:34 PM	Creating edge constraints
+8/10/2020 10:41:34 PM	Gathering synonyms
+8/10/2020 10:41:34 PM	Gathering defaults
+8/10/2020 10:41:34 PM	Gathering data constraint uddt bindings
+8/10/2020 10:41:34 PM	Gathering rules
+8/10/2020 10:41:34 PM	Gathering data constraint uddt bindings
+8/10/2020 10:41:34 PM	Gathering message types
+8/10/2020 10:41:34 PM	Gathering queues
+8/10/2020 10:41:34 PM	Gathering contracts
+8/10/2020 10:41:34 PM	Gathering services
+8/10/2020 10:41:34 PM	Gathering event notifications
+8/10/2020 10:41:34 PM	Gathering remote service bindings
+8/10/2020 10:41:34 PM	Gathering broker priorities
+8/10/2020 10:41:34 PM	Gathering signatures
+8/10/2020 10:41:34 PM	Gathering data compression options
+8/10/2020 10:41:34 PM	Gathering sequence types
+8/10/2020 10:41:34 PM	Gathering security policies
+8/10/2020 10:41:34 PM	Gather column encryption keys
+8/10/2020 10:41:34 PM	Gathering column master keys
+8/10/2020 10:41:35 PM	Gathering external data sources
+8/10/2020 10:41:35 PM	Gathering external file formats
+8/10/2020 10:41:35 PM	Gathering external tables
+8/10/2020 10:41:35 PM	Gathering extended properties
+8/10/2020 10:41:35 PM	Gathering credentials
+8/10/2020 10:41:35 PM	Gathering logins
+8/10/2020 10:41:35 PM	Gathering server audits
+8/10/2020 10:41:35 PM	Scanning project for duplicate elements
+8/10/2020 10:41:36 PM	Finished duplicate element processing
+8/10/2020 10:41:37 PM	Finished importing database.
+8/10/2020 10:41:37 PM	A summary of the import was saved to the following location: C:\git\AutoClicker v1.2\ClickTimeDB\Import Schema Logs\ClickTimeDB_20200811034124.log
+8/10/2020 10:41:37 PM	Click Finish to continue...
